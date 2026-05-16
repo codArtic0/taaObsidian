@@ -1,0 +1,13 @@
+- [ ]  I unidade
+	- [x] [[1 - Análise de Complexidade]]
+		- [x] Funções de Tempo e Espaço (F(n) e S(n))
+	- [ ] [[2 - Análise Assintótica]]
+	- [ ] 3 - Notações Big O, Big Ômega, Theta
+	- [ ] Paradigmas de Projetos de Algoritmos
+  - [ ] II unidade
+	  - [ ] Divisão e Conquista
+	  - [ ] Programação Dinâmica
+	  - [ ] Algoritmos Gulosos
+	  - [ ] Problemas N.P. Completos
+	  - [ ] N.P. Difícil
+	  - [ ] Backtracking
