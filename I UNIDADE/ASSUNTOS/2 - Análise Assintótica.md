@@ -11,3 +11,4 @@ Estamos sempre interessados em buscar a taxa de crescimento de uma função. É 
 A ideia é determinar como o algoritmo se comporta a medida que a entrada de dados aumenta. Neste caso, ignoramos as constantes e os valores de menor magnitude por entender que eles não são significativos diante dos valores de maior magnitude.
 
 ![[ANÁLISE ASSINTÓTICA 1]]
+![[ANÁLISE ASSINTÓTICA 2]]
